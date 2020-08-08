@@ -1,0 +1,46 @@
+body { margin:0; } 
+
+.imageDiv { 
+    height: 100vh;
+    position: relative;
+    background: url(../images/C0128_1.gif) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: 100;
+  }
+.imageAdDiv { 
+    height: 100vh;
+    position: relative;
+    background: url(../images/ad.gif) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: 100;
+}
+.divText{
+  color: #a3a3a3;
+}
+
+.video-thumbnail{
+  position: relative;
+}
+.play-icon{
+  position: absolute;
+  left: 50%;
+  top: -50%;
+  height: 30px;
+  width: 30px;
+  z-index: 10;
+  opacity: 0.7;
+}
+
+.video-image{
+  z-index: 0;
+}
+
+#contact{
+  color:rgb(163, 163, 163);
+}
