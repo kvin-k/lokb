@@ -3,7 +3,7 @@ body { margin:0; }
 .imageDiv { 
     height: 100vh;
     position: relative;
-    background: url(../images/C0128_1.gif) no-repeat center center fixed; 
+    background: url(../images/C0128_1.gif) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -13,7 +13,7 @@ body { margin:0; }
 .imageAdDiv { 
     height: 100vh;
     position: relative;
-    background: url(../images/ad.gif) no-repeat center center fixed; 
+    background: url(../images/ad.gif) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

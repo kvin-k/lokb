@@ -37,7 +37,7 @@ const HomePage= () => {
       <div className="flex justify-center">
       <img src={imageModernApproach} className="h-32" alt="About us"/>
       </div>
-      <div className="flex justify-center py-2">
+      <div className="sm:flex justify-center py-2">
       <img src={imageAwards}  alt="Awards" className="sm:h-56"/>
       </div>
       <div className="divText sm:px-16 pb-12">
